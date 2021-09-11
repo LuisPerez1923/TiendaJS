@@ -1,0 +1,66 @@
+/* Este código nos permite que al usar margins y paddings
+nuestras cajas no crezcan más de lo que nosotros indicamos */
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-size: 1.6rem; /*NOTA: 1rem=10px, 1.6rem=16px, trata de usar rem en lugar de pixeles*/ 
+    line-height: 1.2; /*Separacion entre renglones*/
+}
+  
+/*** Selectores Globales ***/
+
+/*Este selector es muy importante, lo que hace es que las imagenes nunca
+excedan el tamaño de su contenedor*/
+img {
+    max-width: 100%;
+}
+
+/*Estos selectores son para definir un tamaño inicial a los titulos
+tomate la libertad de modificarlos a consideración*/
+h1{
+    font-size: 3.8rem;
+}
+
+h2{
+    font-size: 3.4rem;
+}
+
+h3{
+    font-size: 3rem;
+
+}
+
+h4{
+    font-size: 2.6rem;
+
+}
+
+/*** Utilidades ***/
+
+/*Esta utilidad te permitira centrar secciones en tu página
+y limitar su maximo ancho*/
+.contenedor {
+    width: 90%;
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+/*Esta utilidad te permitira (cuando la ocupes en HTML) centrar los textos
+del contenedor en donde la utilices, tomala de ejemplo para crear
+tus propias utilidades*/
+.t-center {
+    text-align: center;
+}
+
+
+/*NOTA: borrar el siguiente selector*/
+div {
+    background-color: rgb(39, 110, 241);
+}

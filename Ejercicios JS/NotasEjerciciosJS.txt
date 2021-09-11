@@ -1,0 +1,6 @@
+En esta carpeta guardaras tus archivos de scripts (códigos) realizados 
+con JavaScript, en esta carpeta van a ir los archivos
+de JavaScript que no formaran parte de tu proyecto.
+
+Recuerda probarlos con index.html pero cuando ya no hagas uso de ellos
+eliminalos de tu archivo HTML.

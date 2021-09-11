@@ -1,0 +1,4 @@
+En el archivo HTML dejaré la estructura inicial así como las hojas de estilos
+conectadas, y unos comentarios para que visualicen en donde colocaran los
+archivos de JavaScript así como las fuentes de Google (Tipografía) en caso de que 
+deseen incluir otro tipo de letra.

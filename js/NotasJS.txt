@@ -1,0 +1,4 @@
+En esta carpeta guardaras tus archivos de scripts (códigos) realizados 
+con JavaScript a lo largo de las prácticas se estarán mencionando
+el nombre de los nuevos archivos, en esta carpeta van a ir los archivos
+de JavaScript que si formaran parte de tu proyecto.

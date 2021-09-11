@@ -1,0 +1,5 @@
+En esta carpeta colocaras las hojas de estilo, yo colocare la hoja de normalize
+para normalizar los estilos y que en todos los navegadores se vea lo 
+más similar posible nuestra aplicación web, también incluiré algunos 
+códigos de CSS para iniciar el proyecto y en los cuales dejaré unas notas
+más o menos para saber de qué se trata.

@@ -1,0 +1,23 @@
+En esta carpeta guardaras todas las imágenes de tu proyecto, recuerda que
+puedes crear tantas carpetas como lo necesites ya que esto te permitirá
+tener una mejor gestión de tus archivos, como consejo adicional,
+te recomiendo que los nombres de tus imágenes sean cortos y en la medida
+de lo posible descriptivos, evita el uso de caracteres especiales.
+
+
+Buenos nombres para imagenes:
+
+paisaje1.jpg
+paisaje2.png
+banner1.jpg
+fondoPrincipal.png
+
+Malos nombres para imagenes:
+
+fondo chido 1.jpg
+q5s4y45n5s1j4p4b4se4h.jpg
+____imagen download4k.png
+1.jpg
+2.png
+a.jpg
+z.png
